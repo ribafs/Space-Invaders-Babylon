@@ -1,5 +1,13 @@
 # Space Invaders
+
 A fun re-imagining of the 1978 classic by Tomohiro Nishikado and Taito.
+
+## Execute
+
+npm install
+
+npm run dev
+
 
 Play it here: https://spaceinvaders.viperfish.com.au
 
